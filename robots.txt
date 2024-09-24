@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cryermi.github.io/sitemap.html.gz
+Sitemap: https://cryermi.github.io/app/sitemap.html.gz
+Sitemap: https://cryermi.github.io/assets/sitemap.html.gz
+Sitemap: https://cryermi.github.io/css/sitemap.html.gz
+Sitemap: https://cryermi.github.io/data/sitemap.html.gz
+Sitemap: https://cryermi.github.io/includes/sitemap.html.gz
+Sitemap: https://cryermi.github.io/item/sitemap.html.gz
+Sitemap: https://cryermi.github.io/src/sitemap.html.gz
